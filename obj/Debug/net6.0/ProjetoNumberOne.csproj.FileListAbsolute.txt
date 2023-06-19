@@ -1,0 +1,15 @@
+C:\Users\rodri\source\repos\ProjetoNumberOne\bin\Debug\net6.0\ProjetoNumberOne.exe
+C:\Users\rodri\source\repos\ProjetoNumberOne\bin\Debug\net6.0\ProjetoNumberOne.deps.json
+C:\Users\rodri\source\repos\ProjetoNumberOne\bin\Debug\net6.0\ProjetoNumberOne.runtimeconfig.json
+C:\Users\rodri\source\repos\ProjetoNumberOne\bin\Debug\net6.0\ProjetoNumberOne.dll
+C:\Users\rodri\source\repos\ProjetoNumberOne\bin\Debug\net6.0\ProjetoNumberOne.pdb
+C:\Users\rodri\source\repos\ProjetoNumberOne\obj\Debug\net6.0\ProjetoNumberOne.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\ProjetoNumberOne\obj\Debug\net6.0\ProjetoNumberOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\ProjetoNumberOne\obj\Debug\net6.0\ProjetoNumberOne.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\ProjetoNumberOne\obj\Debug\net6.0\ProjetoNumberOne.AssemblyInfo.cs
+C:\Users\rodri\source\repos\ProjetoNumberOne\obj\Debug\net6.0\ProjetoNumberOne.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\ProjetoNumberOne\obj\Debug\net6.0\ProjetoNumberOne.dll
+C:\Users\rodri\source\repos\ProjetoNumberOne\obj\Debug\net6.0\refint\ProjetoNumberOne.dll
+C:\Users\rodri\source\repos\ProjetoNumberOne\obj\Debug\net6.0\ProjetoNumberOne.pdb
+C:\Users\rodri\source\repos\ProjetoNumberOne\obj\Debug\net6.0\ProjetoNumberOne.genruntimeconfig.cache
+C:\Users\rodri\source\repos\ProjetoNumberOne\obj\Debug\net6.0\ref\ProjetoNumberOne.dll
